@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SantaderDevWeek</string>
+    <string name="saldo_disponivel">Balance avaiable</string>
+    <string name="string_saldo_limite">Balance - Limit</string>
+    <string name="txt_ver_extrato">View Extract</string>
+    <string name="txt_recarga">Recharge</string>
+    <string name="txt_transferir">Transfer</string>
+    <string name="txt_pagar">Pay</string>
+    <string name="txt_bemvindo">Hello</string>
+    <string name="txt_final_card">Final Card</string>
+</resources>
